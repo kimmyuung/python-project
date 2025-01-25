@@ -18,7 +18,7 @@ def home():
 @app.route('/index')
 def signup():
     return render_template('index.html')
-
+#branch 연습
 
 
 # 0.0.0.0은 누구나 들어 올 수 있고
